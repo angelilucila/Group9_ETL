@@ -9,7 +9,9 @@ We used 3 different datasets from the public platform Kaggle which lead us to th
 The following sources for our datasets used:
 
 https://www.kaggle.com/shivamb/netflix-shows
+
 https://www.kaggle.com/kevalm/movie-imbd-dataset
+
 https://www.kaggle.com/rounakbanik/the-movies-dataset?select=movies_metadata.csv
 
 Data Set Description: 
