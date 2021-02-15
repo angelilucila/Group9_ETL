@@ -2,8 +2,11 @@
 READ ME - Need to Update
 
 ETL Project Prompt: 
+
 Load multiple datasets online
+
 Transform data in python
+
 Store data in a database
 
 
