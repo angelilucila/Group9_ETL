@@ -10,19 +10,11 @@ Store data in a database
 The following are the sources for the datasets used:
 Source 1: Netflix Shows Dataset (Kaggle)
 Link: https://www.kaggle.com/shivamb/netflix-shows
-Description:
+Description: Dataset consisting of tv shows and movies available on Netflix as of 2019. 
 
-Source 2: Movie IMBD Dataset (Kaggle)
-Link: https://www.kaggle.com/kevalm/movie-imbd-dataset
-Description:
-
-Source 3: Movies Metadata Dataset (Kaggle)
-Link: https://www.kaggle.com/rounakbanik/the-movies-dataset?select=movies_metadata.csv
-Description:
-
-Source 4: Metacritic Movie Reviews Dataset (Kaggle)
+Source 2: Metacritic Movie Reviews Dataset (Kaggle)
 Link: https://www.kaggle.com/miazhx/metacritic-movie-reviews?select=metacritic_reviews.csv
-Description: 
+Description: Dataset containing movie reviews from Metacritic.
 
 
 Motivation and Hypothesis:
