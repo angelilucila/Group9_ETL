@@ -1,7 +1,7 @@
 -- need to update.. taken from class activity 
 
 -- Create Two Tables
-CREATE TABLE netflix_table (
+CREATE TABLE netflix (
   id INT PRIMARY KEY,
   movie_title TEXT,
   director TEXT,
@@ -11,7 +11,7 @@ CREATE TABLE netflix_table (
   description TEXT
 );
 
-CREATE TABLE metacritic_table (
+CREATE TABLE metacritic (
   id INT PRIMARY KEY,
   movie_title TEXT,
   metacritic_genre TEXT,
