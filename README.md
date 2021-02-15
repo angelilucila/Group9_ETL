@@ -23,7 +23,9 @@ Source 2: Metacritic Movie Reviews Dataset (Kaggle)
 
 Link: https://www.kaggle.com/miazhx/metacritic-movie-reviews?select=metacritic_reviews.csv
 
-Description: Dataset containing movie reviews from Metacritic.
+Description: Dataset containing movie reviews from Metacritic. 
+
+About Metascores: https://www.metacritic.com/about-metascores
 
 
 Motivation and Hypothesis:
