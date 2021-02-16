@@ -5,7 +5,7 @@ Motivation and Hypothesis:
 The team consists on avid Netflix viewers. With the variety of options, the team felt that this was a great platform to leverage data visualization to aid in viewer decision making. 
 
 
-Extract:
+EXTRACT
 
 The following are the sources for the datasets used:
 
@@ -34,7 +34,7 @@ Description: Dataset containing movie reviews from Metacritic.
 About Metascores: https://www.metacritic.com/about-metascores
 
 
-Transform:
+TRANSFORM
 
 Netflix:
 
@@ -57,7 +57,7 @@ Binned metascore values into star rating
 Sorted by descending metascore 
 
 
-Load:
+LOAD
 
 Team created Group9_ETL database in pgAdmin4 and wrote queries to create two tables and their data types. After that the team employed sql alchemy functions to login and populate the tables. After verifying, that each table was populated, the team joined the tables by movie_title. 
 
