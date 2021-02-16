@@ -37,15 +37,23 @@ About Metascores: https://www.metacritic.com/about-metascores
 Transform:
 
 Netflix:
+
 Created new DataFrame with select columns
+
 Dropped rows with Type as TV
+
 Dropped Type column 
+
 Renamed columns
 
 Metacritic:
+
 Created new DataFrame with select columns
+
 Renamed columns 
+
 Binned metascore values into star rating
+
 Sorted by descending metascore 
 
 
