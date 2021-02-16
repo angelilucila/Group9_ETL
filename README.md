@@ -2,7 +2,7 @@
 
 Motivation and Hypothesis:
 
-The team consists on avid Netflix viewers. With the variety of options, we feel that this is a great platform to leverage data visualization to aid in viewer decision making. Through this project, the team will join tables including Netlix content and Movie ratings from various datasets. 
+The team consists on avid Netflix viewers. With the variety of options, the team felt that this is a great platform to leverage data visualization to aid in viewer decision making. Through this project, the team will join tables including Netlix content and Movie ratings from various datasets. 
 
 
 Extract:
