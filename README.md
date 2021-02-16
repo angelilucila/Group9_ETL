@@ -1,14 +1,5 @@
 # Group9_ETL
 
-ETL Project Prompt: 
-
-Load multiple datasets online
-
-Transform data in python
-
-Store data in a database
-
-
 Motivation and Hypothesis:
 
 The team consists on avid Netflix viewers. With the variety of options, we feel that this is a great platform to leverage data visualization to aid in viewer decision making. Through this project, the team will join tables including Netlix content and Movie ratings from various datasets. 
